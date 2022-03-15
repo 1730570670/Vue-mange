@@ -115,6 +115,7 @@ export default {
        }else{
            this.userlogin=[];
        }
+       console.log("欢迎使用");
     }
 }
 </script>
